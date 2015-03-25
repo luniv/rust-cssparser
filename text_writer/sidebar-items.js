@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["TextWriter","A Unicode write-only stream."]],"struct":[["Error","Indicates some kind of error during writing, but does not provide further details."]],"type":[["Result","The return type of `TextWriter::write_*` methods."]]});
